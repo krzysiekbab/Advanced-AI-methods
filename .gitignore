@@ -1,0 +1,5 @@
+.DS_Store
+cats/
+cifar-10-batches-py/
+*.csv
+*.pkl
